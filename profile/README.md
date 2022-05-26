@@ -1,4 +1,4 @@
-<img src="cover.jpg" style="width: 100%">
+<img src="../../.github/profile/cover.jpg" style="width: 100%">
 
 # AtenTEC
 
